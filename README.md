@@ -5,4 +5,4 @@ Hi, I’m Karna Jani, a full-stack product developer in Victoria, BC. I’ve bee
 - [ah.apartments](https://www.ah.apartments/) — A rental search site I built with Mapbox, neighbourhood search, listing filters, and a renter application form.
 - **CanvasRx / Aurora** — I spent eight years building and maintaining patient-tracking software, including document and fax workflows and an integration with the OSCAR electronic medical record system.
 
-Most of my professional code is in private repositories.
+Practically all of my professional code is in private repositories.
