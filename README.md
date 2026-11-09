@@ -6,3 +6,5 @@ Hi, I’m Karna Jani, a full-stack product developer in Victoria, BC. I’ve bee
 - **CanvasRx / Aurora** — I spent eight years building and maintaining patient-tracking software, including document and fax workflows and an integration with the OSCAR electronic medical record system.
 
 Practically all of my professional code is in private repositories.
+
+I was away from professional work for over a year with a health issue. I'm fully back as of fall 2026 🙂.
